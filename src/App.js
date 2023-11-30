@@ -1,9 +1,10 @@
 import React from "react"
+import Footer from "./components/Footer"
 
 function App() {
   return (
     <div>
-      <h1 className="bg-[#2a5b84] text-[120px]">Test</h1>
+      <Footer />
     </div>
   );
 }
