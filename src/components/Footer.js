@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-        <div className="h-28 bg-[#161619] rounded-b-lg flex items-center justify-center gap-4 mb-6">
+        <div className="h-28 bg-[#161619] rounded-b-lg flex items-center justify-center gap-4">
             <a href="https://twitter.com/">
                 <img src="../imgs/icons/twitter.svg" alt="Twitter"/>
             </a>

@@ -1,6 +1,6 @@
 export default function Main() {
     return (
-        <div>
+        <div className="bg-[#1a1b21]">
             <div className="flex flex-col items-center justify-center
                             prose prose-h1:text-[#ffffff] prose-h1:text-[32px] prose-h1:leading-[30px] prose-h1:font-bold prose-h1:my-[21px]
                             prose-h3:text-[#f3bf99] prose-h3:text-[24px] prose-h3:font-normal prose-h3:leading-[15px] prose-h3:my-0

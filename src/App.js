@@ -5,8 +5,8 @@ import Footer from "./components/Footer"
 
 function App() {
   return (
-    <div className="w-full bg-[#1a1b21]">
-        <div className="w-[500px] py-12 mx-auto">
+    <div className="w-full bg-[#23252c]">
+        <div className="w-full sm:w-[500px] py-12 mx-auto">
             <Header />
             <Main />
             <Footer />
