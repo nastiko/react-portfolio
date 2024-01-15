@@ -14,12 +14,12 @@ export default function Main() {
                             prose-p:text-[20px] prose-p:leading-[16px] prose-p:my-0">
                 <a className="flex items-center gap-3.5 border-[1px] border-[#d1d5db] bg-[#ffffff] rounded-lg py-3.5 px-10"
                    href="https://anastasia.grinkevi.ch/#section-contact">
-                    <img className="w-[30px] h-[30px] my-0" src="../imgs/icons/email.svg" alt="Icon email"/>
+                    <img className="w-[30px] h-[30px] my-0" src="/imgs/icons/email.svg" alt="Icon email"/>
                     <p>Email</p>
                 </a>
                 <a className="flex items-center gap-3.5 border-[1px] border-[#5093e2] bg-[#5093e2] rounded-lg py-3.5 px-10"
                    href="https://www.linkedin.com/in/anastasia-grinkevich?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium">
-                    <img className="w-[30px] h-[30px] my-0" src="../imgs/icons/linkedin.svg" alt="Icon linkedIn"/>
+                    <img className="w-[30px] h-[30px] my-0" src="/imgs/icons/linkedin.svg" alt="Icon linkedIn"/>
                     <p className="text-[#ffffff]">LinkedIn</p>
                 </a>
             </div>
